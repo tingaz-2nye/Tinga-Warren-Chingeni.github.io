@@ -1,0 +1,33 @@
+User-Agent: Googlebot
+Disallow: /assets/
+
+User-Agent: Googlebot-Image
+Disallow: /assets/
+
+User-Agent: MSNBot
+Disallow: /assets/
+
+User-Agent: Slurp
+Disallow: /assets/
+
+User-Agent: Lycos
+Disallow: /assets/
+
+User-Agent: Seekbot
+Disallow: /assets/
+
+User-Agent: Sistrix
+Disallow: /assets/
+
+User-Agent: SearchmetricsBot
+Disallow: /assets/
+
+User-Agent: BacklinkCrawler
+Disallow: /assets/
+
+User-Agent: SEOkicks-Robot
+Disallow: /assets/
+
+User-Agent: xovi
+Disallow: /assets/
+
